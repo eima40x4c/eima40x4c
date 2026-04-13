@@ -180,7 +180,7 @@ profile = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eima40x4c&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eima40x4c&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
